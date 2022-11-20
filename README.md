@@ -1,1 +1,2 @@
 # MacChangerRegex
+#Eğitim amaçalıdır
